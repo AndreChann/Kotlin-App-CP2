@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PedidosApp</string>
+    <string name="what_s_happening">Preencha o pedido</string>
+    <string name="food_name">Tipo de comida:</string>
+    <string name="food_flavor">Sabor:</string>
+    <string name="food_price">Preço:</string>
+    <string name="add_button">+</string>
+    <string name="name">Nome:</string>
+    <string name="lista_de_pedidos">Lista de pedidos</string>
+    <string name="price">Preço:</string>
+</resources>
